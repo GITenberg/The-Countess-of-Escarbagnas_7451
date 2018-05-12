@@ -1,5 +1,5 @@
 _repo: The-Countess-of-Escarbagnas_7451
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Comtesse D'Escarbagnas. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     - Heron-Wall, C. (Charles)
     gutenberg_agent_id: '2877'
     url: http://www.gutenberg.org/2009/agents/2877
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molière
@@ -25,6 +28,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7451#The-Countess-of-Escarbagnas
 gutenberg_bookshelf: One Act Plays
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
